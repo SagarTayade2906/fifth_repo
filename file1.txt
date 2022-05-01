@@ -1,1 +1,2 @@
 write a python program to find avg of two numbers.
+a=int(input("enter first number:"))
